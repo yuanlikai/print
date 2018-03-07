@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C-Lodop (Print).lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Font Downloader.lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Status Monitor.lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLodop_Setup_for_Win32NT.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install_lodop32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install_lodop64.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="print.iws" />
@@ -141,6 +141,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\print" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\work\print" />
     </key>
@@ -212,7 +215,13 @@
       <option name="project" value="LOCAL" />
       <updated>1520400495418</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add file&#10;&#10;addfile">
+      <created>1520401623755</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520401623755</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
