@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="" />
+=======
     <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLodop_Setup_for_Win32NT.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install_lodop32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/install_lodop64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C-Lodop (Print).lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Font Downloader.lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Status Monitor.lnk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+>>>>>>> parent of 2d83d35... add file
     <ignored path="print.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +30,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47019124">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="50" />
+            <state vertical-scroll-proportion="-4.5">
+              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commit 01460707764980f399194c80bf3e51107c331f22" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="0.4846871">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+            <state vertical-scroll-proportion="0.33288947">
+              <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
               <folding />
             </state>
           </provider>
@@ -94,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,13 +143,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,10 +174,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="E:\work\print" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+=======
+>>>>>>> parent of 2d83d35... add file
       <recent name="E:\work\print" />
     </key>
   </component>
@@ -215,26 +251,74 @@
       <option name="project" value="LOCAL" />
       <updated>1520400495418</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="add file&#10;&#10;addfile">
       <created>1520401623755</created>
       <option name="number" value="00002" />
       <option name="project" value="LOCAL" />
       <updated>1520401623755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add file&#10;&#10;addfile">
+      <created>1520401834177</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520401834177</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add file&#10;&#10;addfile">
+      <created>1520404068665</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520404068665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add file&#10;&#10;addfile">
+      <created>1520404181607</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1520404181607</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add file&#10;&#10;addfile">
+      <created>1520472400369</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1520472400369</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add file&#10;&#10;addfile">
+      <created>1520472813457</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520472813457</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;">
+      <created>1520581306375</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1520581306375</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;">
+      <created>1520581372544</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520581372544</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> parent of 2d83d35... add file
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14376321" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -260,7 +344,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add file&#10;&#10;addfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file&#10;&#10;addfile" />
+    <MESSAGE value="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -277,8 +362,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47019124">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.4846871">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+        <state vertical-scroll-proportion="0.33288947">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
           <folding />
         </state>
       </provider>

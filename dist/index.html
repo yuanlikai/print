@@ -10,10 +10,9 @@
 <input type="text" placeholder="时间戳">
 <br>
 <br>
-测试接口<a href="javascript:prn1_preview()">查看样式</a> <a href="javascript:prn1_print()">直接打印</a>
+<a href="javascript:prn1_preview()">查看样式</a> <a href="javascript:prn1_print()">直接打印</a>
 <br>
 <br>
-直接打印<a href="javascript:prn1_previewa()">查看样式</a> <a href="javascript:prn1_printa()">直接打印</a>
 <script src="https://cdn.bootcss.com/jquery/1.7/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
     var LODOP;
@@ -50,14 +49,14 @@
         LODOP.ADD_PRINT_TEXT(125, 115, 600, 50, str.hint);
         LODOP.SET_PRINT_STYLEA(0, "FontSize", 7);
         LODOP.SET_PRINT_STYLEA(0, "Angle", 90);
-        
+
         LODOP.ADD_PRINT_BARCODE(128, 50,96,96, "QRCode", str.code);
         LODOP.SET_PRINT_STYLEA(0, "Angle", 90);
     }
     function prn1_print() {
         $.ajax({
             type: 'get',
-            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo222.json',
+            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo.json',
             data:{
                 startTime:$('input').val()
             },
@@ -83,56 +82,6 @@
         $.ajax({
             type: 'get',
             url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo222.json',
-            data:{
-                startTime:$('input').val()
-            },
-            success: function (data) {
-                for (var i = 0; i < data.length; i++) {
-                    CreateOneFormPage({
-                        title: data[i].skuName,
-                        price: data[i].price,
-                        code: data[i].qrcodeUrl,
-                        size: data[i].sepc,
-                        num: data[i].shelvesNo,
-                        batch: data[i].skuInfoNo,
-                        msg: data[i].beizhu,
-                        hint: data[i].shiyong
-                    });
-                    LODOP.PREVIEW();
-                }
-            }
-        });
-    }
-
-    function prn1_printa() {
-        $.ajax({
-            type: 'get',
-            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo.json',
-            data:{
-                startTime:$('input').val()
-            },
-            success: function (data) {
-                for (var i = 0; i < data.length; i++) {
-                    CreateOneFormPage({
-                        title: data[i].skuName,
-                        price: data[i].price,
-                        code: data[i].qrcodeUrl,
-                        size: data[i].sepc,
-                        num: data[i].shelvesNo,
-                        batch: data[i].skuInfoNo,
-                        msg: data[i].beizhu,
-                        hint: data[i].shiyong
-                    });
-                    LODOP.PRINT();
-                }
-            }
-        });
-    }
-
-    function prn1_previewa() {
-        $.ajax({
-            type: 'get',
-            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo.json',
             data:{
                 startTime:$('input').val()
             },
