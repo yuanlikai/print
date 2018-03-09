@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="" />
+=======
+    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C-Lodop (Print).lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Font Downloader.lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Status Monitor.lnk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+>>>>>>> parent of 2d83d35... add file
     <ignored path="print.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,9 +175,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="E:\work\print" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+=======
+>>>>>>> parent of 2d83d35... add file
       <recent name="E:\work\print" />
     </key>
   </component>
@@ -239,6 +251,7 @@
       <option name="project" value="LOCAL" />
       <updated>1520400495418</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="add file&#10;&#10;addfile">
       <created>1520401623755</created>
       <option name="number" value="00002" />
@@ -288,6 +301,9 @@
       <updated>1520581372544</updated>
     </task>
     <option name="localTasksCounter" value="10" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> parent of 2d83d35... add file
     <servers />
   </component>
   <component name="ToolWindowManager">
