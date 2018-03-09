@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/C-Lodop (Print).lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/CLodop_Setup_for_Win32NT.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/Zebra Font Downloader.lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/Zebra Status Monitor.lnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/install_lodop32.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ins/install_lodop64.exe" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/C-Lodop (Print).lnk" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="" />
     <ignored path="print.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -283,7 +274,13 @@
       <option name="project" value="LOCAL" />
       <updated>1520581306375</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;">
+      <created>1520581372544</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520581372544</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
