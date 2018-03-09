@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16733068">
+            <state vertical-scroll-proportion="-4.5">
               <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commit 01460707764980f399194c80bf3e51107c331f22" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33288947">
+              <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -355,8 +365,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16733068">
+        <state vertical-scroll-proportion="-4.5">
           <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33288947">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
           <folding />
         </state>
       </provider>
