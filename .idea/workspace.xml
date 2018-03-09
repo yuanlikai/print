@@ -34,8 +34,13 @@
       <file leaf-file-name="commit 01460707764980f399194c80bf3e51107c331f22" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.4846871">
               <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+            <state vertical-scroll-proportion="0.33288947">
+              <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
               <folding />
             </state>
           </provider>
@@ -289,7 +294,7 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -373,8 +378,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.4846871">
           <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+        <state vertical-scroll-proportion="0.33288947">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
           <folding />
         </state>
       </provider>
