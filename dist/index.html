@@ -58,7 +58,7 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/1SKUBarcode/getSKUBarInfo.json',
             data:{
-                startTime:$('input').val()
+                startTime:$('input').val(),
             },
             success: function (data) {
                 for (var i = 0; i < data.length; i++) {
