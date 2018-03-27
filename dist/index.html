@@ -56,7 +56,7 @@
     function prn1_print() {
         $.ajax({
             type: 'get',
-            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo.json',
+            url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo.json',
             data:{
                 startTime:$('input').val()
             },
@@ -81,7 +81,7 @@
     function prn1_preview() {
         $.ajax({
             type: 'get',
-            url: 'http://192.168.1.73:8084/Mobile/SKUBarcode/getSKUBarInfo222.json',
+            url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo222.json',
             data:{
                 startTime:$('input').val()
             },
