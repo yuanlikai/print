@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
-    <list default="true" id="467dad33-b2c5-4481-af7b-ae2f0f898e3f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="" />
 =======
-    <list default="true" id="b3a0a36a-2562-4cf0-8b1e-f4e3c7a4df7f" name="默认的" comment="">
+    <list default="true" id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/C-Lodop (Print).lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Font Downloader.lnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Zebra Status Monitor.lnk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
->>>>>>> 20907f22bf6a68d0f45922b22acb6765062c83d0
     </list>
-    <list id="2cdbabaa-6743-446f-bcb9-c7a031724460" name="New changelist" comment="" />
+>>>>>>> parent of 2d83d35... add file
     <ignored path="print.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,25 +29,40 @@
     <favorites_list name="print" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="62" column="38" lean-forward="true" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+            <state vertical-scroll-proportion="-4.5">
+              <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commit 01460707764980f399194c80bf3e51107c331f22" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state vertical-scroll-proportion="0.4846871">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+            <state vertical-scroll-proportion="0.33288947">
+              <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-=======
-    <leaf />
->>>>>>> 20907f22bf6a68d0f45922b22acb6765062c83d0
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,6 +83,12 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="添加" />
     <OptionsSetting value="true" id="移除" />
     <OptionsSetting value="true" id="签出" />
@@ -92,6 +113,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -100,22 +123,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="print" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="更改的文件" />
-        <subPane subId="New changelist" />
-      </pane>
-      <pane id="Scratches">
-        <subPane />
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gulp" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="E:\work\print" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+=======
+>>>>>>> parent of 2d83d35... add file
+      <recent name="E:\work\print" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -170,88 +237,94 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
-    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b3a0a36a-2562-4cf0-8b1e-f4e3c7a4df7f" name="默认的" comment="" />
-      <changelist id="2cdbabaa-6743-446f-bcb9-c7a031724460" name="New changelist" comment="" />
-      <created>1522125899608</created>
+      <changelist id="a6226a41-9792-468b-99ee-d435ff3b1773" name="默认的" comment="" />
+      <created>1520320335496</created>
       <option name="number" value="Default" />
-<<<<<<< HEAD
-      <option name="presentableId" value="Default" />
-      <updated>1522127689119</updated>
-      <workItem from="1522127690276" duration="201000" />
-=======
-      <updated>1522125899608</updated>
+      <updated>1520320335496</updated>
     </task>
-    <task id="LOCAL-00001" summary="alter&#10;&#10;alter">
-      <created>1522126235109</created>
+    <task id="LOCAL-00001" summary="add file&#10;&#10;addfile">
+      <created>1520400495418</created>
       <option name="number" value="00001" />
       <option name="project" value="LOCAL" />
-      <updated>1522126235109</updated>
+      <updated>1520400495418</updated>
     </task>
-    <task id="LOCAL-00002" summary="alter&#10;&#10;alter">
-      <created>1522126483165</created>
+<<<<<<< HEAD
+    <task id="LOCAL-00002" summary="add file&#10;&#10;addfile">
+      <created>1520401623755</created>
       <option name="number" value="00002" />
       <option name="project" value="LOCAL" />
-      <updated>1522126483165</updated>
+      <updated>1520401623755</updated>
     </task>
-    <task id="LOCAL-00003" summary="alter&#10;&#10;alter">
-      <created>1522126762980</created>
+    <task id="LOCAL-00003" summary="add file&#10;&#10;addfile">
+      <created>1520401834177</created>
       <option name="number" value="00003" />
       <option name="project" value="LOCAL" />
-      <updated>1522126762980</updated>
+      <updated>1520401834177</updated>
     </task>
-    <task id="LOCAL-00004" summary="alter&#10;&#10;alter">
-      <created>1522127229215</created>
+    <task id="LOCAL-00004" summary="add file&#10;&#10;addfile">
+      <created>1520404068665</created>
       <option name="number" value="00004" />
       <option name="project" value="LOCAL" />
-      <updated>1522127229215</updated>
+      <updated>1520404068665</updated>
     </task>
-    <task id="LOCAL-00005" summary="alter&#10;&#10;alter">
-      <created>1522127318665</created>
+    <task id="LOCAL-00005" summary="add file&#10;&#10;addfile">
+      <created>1520404181607</created>
       <option name="number" value="00005" />
       <option name="project" value="LOCAL" />
-      <updated>1522127318665</updated>
->>>>>>> 20907f22bf6a68d0f45922b22acb6765062c83d0
+      <updated>1520404181607</updated>
     </task>
-    <task id="LOCAL-00006" summary="alter&#10;&#10;alter">
-      <created>1522127429682</created>
+    <task id="LOCAL-00006" summary="add file&#10;&#10;addfile">
+      <created>1520472400369</created>
       <option name="number" value="00006" />
       <option name="project" value="LOCAL" />
-      <updated>1522127429682</updated>
+      <updated>1520472400369</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add file&#10;&#10;addfile">
+      <created>1520472813457</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520472813457</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;">
+      <created>1520581306375</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1520581306375</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;">
+      <created>1520581372544</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1520581372544</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> parent of 2d83d35... add file
     <servers />
   </component>
-<<<<<<< HEAD
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-=======
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
->>>>>>> 20907f22bf6a68d0f45922b22acb6765062c83d0
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16384777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14376321" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -270,8 +343,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="alter&#10;&#10;alter" />
-    <option name="LAST_COMMIT_MESSAGE" value="alter&#10;&#10;alter" />
+    <MESSAGE value="add file&#10;&#10;addfile" />
+    <MESSAGE value="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;alter&quot;&#10;&#10;This reverts commit e7aa4269f7b6dfa52947ec9d5759469d95a532a7.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -280,49 +354,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="425">
-          <caret line="62" column="38" lean-forward="true" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-=======
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/public/js/ylcookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/public/js/ylcookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09400545">
-          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.616423">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
->>>>>>> 20907f22bf6a68d0f45922b22acb6765062c83d0
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5">
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="47" selection-end-line="53" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commit 01460707764980f399194c80bf3e51107c331f22">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state vertical-scroll-proportion="0.4846871">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="51" />
+=======
+        <state vertical-scroll-proportion="0.33288947">
+          <caret line="72" column="52" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="52" />
+>>>>>>> 706b298fd89352b75679892b5252ee4a95a7d761
+          <folding />
         </state>
       </provider>
     </entry>
