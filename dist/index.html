@@ -7,7 +7,8 @@
 
 <br>
 <br>
-<input type="text" placeholder="时间戳">
+<input type="text" placeholder="startTime" class="input1">
+<input type="text" placeholder="endTime" class="input2">
 <br>
 <br>
 <a href="javascript:prn1_preview()">查看样式</a> <a href="javascript:prn1_print()">直接打印</a>
@@ -58,7 +59,8 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo.json',
             data:{
-                startTime:$('input').val()
+                startTime:$('input1').val(),
+                endTime:$('input2').val()
             },
             success: function (data) {
                 for (var i = 0; i < data.length; i++) {
@@ -83,7 +85,8 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo222.json',
             data:{
-                startTime:$('input').val()
+                startTime:$('input1').val(),
+                endTime:$('input2').val()
             },
             success: function (data) {
                 for (var i = 0; i < data.length; i++) {
