@@ -60,8 +60,8 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo.json',
             data:{
-                startTime:$('input1').val(),
-                endTime:$('input2').val()
+                startTime:$('.input1').val(),
+                endTime:$('.input2').val()
             },
             success: function (data) {
                 for (var i = 0; i < data.length; i++) {
@@ -85,8 +85,8 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo.json',
             data:{
-                startTime:$('input1').val(),
-                endTime:$('input2').val()
+                startTime:$('.input1').val(),
+                endTime:$('.input2').val()
             },
             success: function (data) {
                 console.log(data)
@@ -100,8 +100,8 @@
             type: 'get',
             url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo222.json',
             data:{
-                startTime:$('input1').val(),
-                endTime:$('input2').val()
+                startTime:$('.input1').val(),
+                endTime:$('.input2').val()
             },
             success: function (data) {
                 for (var i = 0; i < data.length; i++) {
