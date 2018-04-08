@@ -14,6 +14,7 @@
 <a href="javascript:prn1_preview()">查看样式</a> <a href="javascript:prn1_print()">直接打印</a>
 <br>
 <br>
+<button onclick="prn1_print1()">console.log</button>
 <script src="https://cdn.bootcss.com/jquery/1.7/jquery.min.js"></script>
 <script language="javascript" type="text/javascript">
     var LODOP;
@@ -79,6 +80,20 @@
             }
         });
     }
+    function prn1_print1() {
+        $.ajax({
+            type: 'get',
+            url: 'http://192.168.1.73:8084/SKUBarcode/getSKUBarInfo.json',
+            data:{
+                startTime:$('input1').val(),
+                endTime:$('input2').val()
+            },
+            success: function (data) {
+                console.log(data)
+            }
+        });
+    }
+
 
     function prn1_preview() {
         $.ajax({
